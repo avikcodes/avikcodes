@@ -61,10 +61,6 @@ Python • AI • Machine Learning • CLI Tools • Research
 
 ## What I'm Doing
 
-- Building open-source AI tools
-- Publishing research
-- Learning advanced ML systems
-
----
-
-
+• Building open-source AI developer tools  
+• Publishing ML and AI research  
+• Experimenting with open-source models like Qwen

@@ -67,6 +67,12 @@ Python • AI • Machine Learning • CLI Tools • Research
 
 ---
 
+## Latest Writing
+
+• [Building AI tools as a solo founder](https://x.com/Avik12345678/status/2029436065304678856?s=20)
+
+• [Thoughts on research and building in public](https://x.com/Avik12345678/status/2012346595954901127?s=20)
+
 ---
 
 ## Connect

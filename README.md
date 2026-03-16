@@ -4,6 +4,13 @@
 🧠 Building AI tools for developers  
 📄 1 research paper under review  
 
+## Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![CLI Tools](https://img.shields.io/badge/CLI%20Tools-darkgreen?style=for-the-badge)
+
 ---
 
 ## Current Projects

@@ -64,3 +64,11 @@ Python • AI • Machine Learning • CLI Tools • Research
 • Building open-source AI developer tools  
 • Publishing ML and AI research  
 • Experimenting with open-source models like Qwen
+
+---
+
+## GitHub Activity
+
+![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=avikcodes&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avikcodes&layout=compact&theme=tokyonight)

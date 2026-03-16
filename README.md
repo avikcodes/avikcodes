@@ -8,9 +8,6 @@
 
 ## Current Projects
 
-- **CommitWrite** — AI that writes your git commit messages  
-## Current Projects
-
 ### CommitWrite
 Reads your staged git diff and generates a clean commit message using AI.
 

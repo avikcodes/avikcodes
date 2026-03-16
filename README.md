@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Avik 👋
 
-<!--
-**avikcodes/avikcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Solo founder + independent researcher  
+🧠 Building AI tools for developers  
+📄 1 research paper under review  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- **CommitWrite** — AI that writes your git commit messages  
+## Current Projects
+
+### CommitWrite
+Reads your staged git diff and generates a clean commit message using AI.
+
+### PaperDigest
+Paste any arXiv link → get a structured summary (problem, method, results).
+
+### BugReport
+Paste an error message → get a clear explanation and fix steps.
+
+### ReadmeGen
+Paste a GitHub repo URL → generates a complete professional README.
+
+### EnvCheck
+Scan a `.env` file → find missing variables, unused keys, and leaks.
+
+### TabExplain
+Upload a CSV → get plain-English insights about the data.
+
+### DataClean
+Upload messy CSV → automatically fix missing values and duplicates.
+
+### StudyMap
+Paste notes → generate a mind map and flashcards.
+
+### PaperOutline
+Describe a research idea → generate a full IEEE paper structure.
+
+### DepsAudit
+Scan a project → find outdated or vulnerable dependencies.
+
+---
+
+## Tech Stack
+
+Python • AI • Machine Learning • CLI Tools • Research
+
+---
+
+## What I'm Doing
+
+- Building open-source AI tools
+- Publishing research
+- Learning advanced ML systems

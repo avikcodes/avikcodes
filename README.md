@@ -1,8 +1,10 @@
 # Hi, I'm Avik 👋
 
 🚀 Solo founder + independent researcher  
-🧠 Building AI tools for developers  
-📄 1 research paper under review  
+🧠 Building AI tools for developers and researchers  
+📄 1 research paper under review
+
+> I build small useful AI tools and open-source developer utilities. 
 
 ## Tech
 

@@ -62,3 +62,11 @@ Python • AI • Machine Learning • CLI Tools • Research
 - Building open-source AI tools
 - Publishing research
 - Learning advanced ML systems
+
+---
+
+## GitHub Stats
+
+![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=avikcodes&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avikcodes&layout=compact&theme=tokyonight)

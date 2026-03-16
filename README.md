@@ -7,10 +7,14 @@
 ## Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![CLI Tools](https://img.shields.io/badge/CLI%20Tools-darkgreen?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+![Qwen](https://img.shields.io/badge/Qwen-AI%20Model-black?style=for-the-badge)
+![Open%20Source%20AI](https://img.shields.io/badge/Open--Source%20AI-Models-purple?style=for-the-badge)
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![CLI%20Tools](https://img.shields.io/badge/CLI%20Tools-darkgreen?style=for-the-badge)
 ---
 
 ## Current Projects

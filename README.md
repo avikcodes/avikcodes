@@ -21,35 +21,35 @@
 
 ## Current Projects
 
-### CommitWrite
+🔹 **CommitWrite**  
 Reads your staged git diff and generates a clean commit message using AI.
 
-### PaperDigest
+🔹 **PaperDigest**  
 Paste any arXiv link → get a structured summary (problem, method, results).
 
-### BugReport
+🔹 **BugReport**  
 Paste an error message → get a clear explanation and fix steps.
 
-### ReadmeGen
-Paste a GitHub repo URL → generates a complete professional README.
+🔹 **ReadmeGen**  
+Paste a GitHub repo URL → generates a professional README.
 
-### EnvCheck
-Scan a `.env` file → find missing variables, unused keys, and leaks.
+🔹 **EnvCheck**  
+Scan a `.env` file → detect missing variables, unused keys, and leaks.
 
-### TabExplain
+🔹 **TabExplain**  
 Upload a CSV → get plain-English insights about the data.
 
-### DataClean
+🔹 **DataClean**  
 Upload messy CSV → automatically fix missing values and duplicates.
 
-### StudyMap
+🔹 **StudyMap**  
 Paste notes → generate a mind map and flashcards.
 
-### PaperOutline
+🔹 **PaperOutline**  
 Describe a research idea → generate a full IEEE paper structure.
 
-### DepsAudit
-Scan a project → find outdated or vulnerable dependencies.
+🔹 **DepsAudit**  
+Scan a project → detect outdated or vulnerable dependencies.
 
 ---
 

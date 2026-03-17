@@ -21,7 +21,7 @@
 
 ## Current Projects
 
-🔹 **CommitWrite**  
+🔹 [**CommitWrite**](https://github.com/avikcodes/CommitWrite)  
 Reads your staged git diff and generates a clean commit message using AI.
 
 🔹 **PaperDigest**  

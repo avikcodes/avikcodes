@@ -21,9 +21,7 @@
 
 ## Current Projects
 
-🔹 [**CommitWrite**](https://github.com/avikcodes/CommitWrite)  
-Reads your staged git diff and generates a clean commit message using AI.
-
+🔹 [**CommitWrite**](https://github.com/avikcodes/CommitWrite) - Reads your staged git diff and generates a clean commit message using AI
 🔹 **PaperDigest**  
 Paste any arXiv link → get a structured summary (problem, method, results).
 

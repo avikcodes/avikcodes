@@ -22,6 +22,7 @@
 ## Current Projects
 
 🔹 [**CommitWrite**](https://github.com/avikcodes/CommitWrite) - Reads your staged git diff and generates a clean commit message using AI
+
 🔹 **PaperDigest** — Paste any arXiv link → get a clean visual summary card with problem, method, results and a read score  
 🔹 **BugReport** — Paste any error + stack trace → get a beautiful HTML report with plain English explanation and exact fix steps  
 🔹 **TabExplain** — Upload any CSV → get a visual dashboard showing patterns, outliers, correlations in plain English  

@@ -21,8 +21,8 @@
 
 ## Current Projects
 
-- 🔹 [**CommitWrite**](https://github.com/avikcodes/CommitWrite) — Reads your staged git diff and generates a clean commit message using AI
-- 🔹 [**PaperDigest**](https://github.com/avikcodes/-PaperDigest) — Paste any arXiv paper link → get structured summaries (problem, method, results) instantly
+- ✅ [**CommitWrite**](https://github.com/avikcodes/CommitWrite) — Reads your staged git diff and generates a clean commit message using AI
+- 📜 [**PaperDigest**](https://github.com/avikcodes/-PaperDigest) — Paste any arXiv paper link → get structured summaries (problem, method, results) instantly
 ---
 
 ## Tool Roadmap

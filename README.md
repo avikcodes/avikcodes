@@ -27,34 +27,36 @@
 
 ## Tool Roadmap
 
-• 🔹 **BugReport** — Paste any error + stack trace → get a beautiful HTML report with plain English explanation and exact fix steps  
-• 🔹 **TabExplain** — Upload any CSV → get a visual dashboard showing patterns, outliers, correlations in plain English  
-• 🔹 **GradeCalc** — Enter marks and credits → get a clean visual result showing CGPA, gap to target, and what you need  
-• 🔹 **ReadmeGen** — Paste any GitHub repo URL → get a complete beautiful README.md file ready to copy and use  
-• 🔹 **DataClean** — Upload messy CSV → download a clean fixed version with a visual before/after comparison report  
-• 🔹 **CiteFast** — Paste any paper text → get APA, MLA, and IEEE citations displayed cleanly ready to copy  
-• 🔹 **BenchMark** — Upload any CSV dataset → get a beautiful visual comparison chart of 5 ML models side by side  
-• 🔹 **ExamPrep** — Upload any syllabus PDF → get a clean visual question bank with 30 questions and answers  
-• 🔹 **StudyMap** — Paste any lecture notes → get a visual mind map you can download and use immediately  
-• 🔹 **PaperOutline** — Describe your research idea → get a complete visual paper structure with all sections filled  
-• 🔹 **APITest** — Paste any API endpoint details → get ready-to-run curl commands and test cases in a clean UI  
-• 🔹 **InvoiceGen** — Fill 4 fields → download a clean professional PDF invoice instantly, no account needed  
-• 🔹 **RunwayCalc** — Enter revenue and expenses → get a visual chart showing exact months to profitability or zero  
-• 🔹 **WebhookReplay** — Paste any webhook payload → get a beautiful visual log and one-click replay UI  
-• 🔹 **SaaSMetrics** — Connect Stripe or Dodo → see MRR, churn, and LTV in a clean visual dashboard  
-• 🔹 **TabBench** — Upload any tabular dataset → get a beautiful reproducible benchmark report you can share  
-• 🔹 **FairScan** — Upload any classification model and dataset → get a visual bias and fairness audit report  
-• 🔹 **TinyTrain** — Upload any CSV → fine-tune a small model and get a visual training result report  
-• 🔹 **ExplainDiff** — Upload two ML models → get a visual side-by-side chart showing exactly where their predictions differ  
-• 🔹 **AgentLog** — Drop into any AI agent project → get a beautiful visual timeline of every run, tool call, and error  
-• 🔹 **LocalMind** — Drop any PDFs or text files → get a clean chat UI to query your documents fully offline  
-• 🔹 **RobustCheck** — Upload any ML model → get a visual report showing exactly how and where the model breaks  
-• 🔹 **DataDistill** — Upload any real dataset → download a synthetic version with a visual statistical comparison report  
-• 🔹 **DepsAudit** — Paste your package.json or requirements.txt → get a visual card showing outdated, vulnerable, unused deps  
-• 🔹 **PRReview** — Paste any GitHub PR link → get a beautiful visual code review report with issues and suggestions  
-• 🔹 **DocSearch** — Upload any folder of PDFs → get a clean search UI that finds answers across all your documents instantly  
-• 🔹 **SchemaViz** — Paste any database schema or Supabase URL → get a beautiful visual diagram of your tables and relations  
-• 🔹 **PromptLab** — Write any prompt → get a visual comparison of outputs across multiple models side by side
+## Tool Roadmap
+
+- 🐛 **BugReport** — Paste any error + stack trace → plain English diagnosis, exact fix, and prevention tip with severity badge
+- 📊 **TabExplain** — Upload any CSV → visual dashboard showing patterns, outliers, and correlations in plain English
+- 🧹 **DataClean** — Upload any messy CSV → download a cleaned version with a visual before/after comparison report
+- ⚡ **BenchMark** — Upload any dataset → runs 5 ML models simultaneously and shows accuracy, speed, memory comparison chart
+- 🔬 **TinyTrain** — Upload any CSV with a target column → fine-tune a small model and get a visual training result report
+- 🔀 **ExplainDiff** — Upload two trained ML models → visual side-by-side chart showing exactly where and why predictions differ
+- ⚖️ **FairScan** — Upload any classification model + dataset → visual bias and fairness audit report across demographic groups
+- 🛡️ **RobustCheck** — Upload any ML model → generates adversarial edge case inputs and shows exactly how the model breaks
+- 🧪 **DataDistill** — Upload any real dataset → download a privacy-safe synthetic version with visual statistical comparison
+- 📌 **FeaturePick** — Upload any CSV → visual feature importance ranking with correlation heatmap and drop recommendations
+- 🏎️ **CVBench** — Upload any image dataset → benchmark across 3 pretrained vision models and get accuracy comparison chart
+- 🎨 **AugViz** — Upload any image → shows 12 different data augmentation previews side by side in real time
+- 🕺 **PoseCheck** — Upload any image or video → detects human pose keypoints and visualizes skeleton overlay
+- 🔢 **ObjectCount** — Upload any image → detects and counts objects by class with clean visual bounding box report
+- 🌊 **DepthMap** — Upload any image → generates monocular depth estimation map with color gradient visualization
+- 🗺️ **SegViz** — Upload any image → runs semantic segmentation and shows color-coded class map overlay
+- 🔥 **GradCAMViz** — Upload any image + CNN model → generates Grad-CAM heatmap showing exactly what the model is looking at
+- 📉 **DataDrift** — Upload two CSV datasets → detects statistical drift between them and produces a visual drift report
+- 📋 **ModelCard** — Upload any trained model + dataset → auto-generates a standard ML model card ready to publish
+- 🌐 **EmbedViz** — Upload any dataset → generates interactive 2D and 3D embedding visualization using UMAP and t-SNE
+- 📖 **PaperOutline** — Describe your research idea in 2 sentences → generates complete IEEE/Springer paper structure with guidance
+- 📚 **CiteFast** — Paste any paper text → instantly generates APA, MLA, and IEEE citations in a clean copyable UI
+- 🗓️ **LitMap** — Paste 5 arXiv links → generates a visual literature review map showing how the papers connect to each other
+- 📝 **ReadmeGen** — Paste any GitHub repo URL → generates a complete professional README.md from the actual code instantly
+- 🔌 **APITest** — Describe any API endpoint in plain English → generates ready-to-run curl commands and full test cases
+- 🔍 **DepsAudit** — Paste any package.json or requirements.txt → visual card showing outdated, vulnerable, and unused dependencies
+- 🗄️ **SchemaViz** — Paste any database schema or SQL → generates a beautiful visual diagram of tables and their relations
+- 🧬 **PromptLab** — Write any prompt → runs it across multiple models and shows outputs in a visual side-by-side comparison
 ## What I'm Doing
 
 • Building open-source AI developer tools  

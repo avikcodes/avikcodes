@@ -23,13 +23,13 @@
 
 - ✅ [**CommitWrite**](https://github.com/avikcodes/CommitWrite) — Reads your staged git diff and generates a clean commit message using AI
 - 📜 [**PaperDigest**](https://github.com/avikcodes/-PaperDigest) — Paste any arXiv paper link → get structured summaries (problem, method, results) instantly
+-  🐛 [**BugReport**](https://github.com/avikcodes/bugreport) — Paste any error + stack trace → plain English diagnosis, exact fix, and prevention tip with severity badge
 ---
 
 ## Tool Roadmap
 
 ## Tool Roadmap
 
-- 🐛 **BugReport** — Paste any error + stack trace → plain English diagnosis, exact fix, and prevention tip with severity badge
 - 📊 **TabExplain** — Upload any CSV → visual dashboard showing patterns, outliers, and correlations in plain English
 - 🧹 **DataClean** — Upload any messy CSV → download a cleaned version with a visual before/after comparison report
 - ⚡ **BenchMark** — Upload any dataset → runs 5 ML models simultaneously and shows accuracy, speed, memory comparison chart

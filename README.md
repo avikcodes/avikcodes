@@ -65,6 +65,13 @@
 
 ---
 
+## Research
+Data-Efficient Machine Learning for Small Tabular Datasets: A Comparison Study
+- 📄 Preprint: https://raw.githubusercontent.com/avikcodes/data-efficient-ml-small-tabular/main/paper/paper.pdf
+- 💻 Code: https://github.com/avikcodes/data-efficient-ml-small-tabular
+
+---
+
 ## Latest Writing
 
 • [I Trained 12 ML Models Across 4 Datasets With Zero GPU Cluster. The Results Destroyed My Assumptions](https://x.com/Avik12345678/status/2029436065304678856?s=20)

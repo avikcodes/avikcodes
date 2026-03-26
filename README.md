@@ -26,37 +26,38 @@
 -  🐛 [**BugReport**](https://github.com/avikcodes/bugreport) — Paste any error + stack trace → plain English diagnosis, exact fix, and prevention tip with severity badge
 ---
 
-## Tool Roadmap
 
 ## Tool Roadmap
 
-- 📊 **TabExplain** — Upload any CSV → visual dashboard showing patterns, outliers, and correlations in plain English
-- 🧹 **DataClean** — Upload any messy CSV → download a cleaned version with a visual before/after comparison report
-- ⚡ **BenchMark** — Upload any dataset → runs 5 ML models simultaneously and shows accuracy, speed, memory comparison chart
-- 🔬 **TinyTrain** — Upload any CSV with a target column → fine-tune a small model and get a visual training result report
-- 🔀 **ExplainDiff** — Upload two trained ML models → visual side-by-side chart showing exactly where and why predictions differ
-- ⚖️ **FairScan** — Upload any classification model + dataset → visual bias and fairness audit report across demographic groups
-- 🛡️ **RobustCheck** — Upload any ML model → generates adversarial edge case inputs and shows exactly how the model breaks
-- 🧪 **DataDistill** — Upload any real dataset → download a privacy-safe synthetic version with visual statistical comparison
-- 📌 **FeaturePick** — Upload any CSV → visual feature importance ranking with correlation heatmap and drop recommendations
-- 🏎️ **CVBench** — Upload any image dataset → benchmark across 3 pretrained vision models and get accuracy comparison chart
-- 🎨 **AugViz** — Upload any image → shows 12 different data augmentation previews side by side in real time
-- 🕺 **PoseCheck** — Upload any image or video → detects human pose keypoints and visualizes skeleton overlay
-- 🔢 **ObjectCount** — Upload any image → detects and counts objects by class with clean visual bounding box report
-- 🌊 **DepthMap** — Upload any image → generates monocular depth estimation map with color gradient visualization
-- 🗺️ **SegViz** — Upload any image → runs semantic segmentation and shows color-coded class map overlay
-- 🔥 **GradCAMViz** — Upload any image + CNN model → generates Grad-CAM heatmap showing exactly what the model is looking at
-- 📉 **DataDrift** — Upload two CSV datasets → detects statistical drift between them and produces a visual drift report
-- 📋 **ModelCard** — Upload any trained model + dataset → auto-generates a standard ML model card ready to publish
-- 🌐 **EmbedViz** — Upload any dataset → generates interactive 2D and 3D embedding visualization using UMAP and t-SNE
-- 📖 **PaperOutline** — Describe your research idea in 2 sentences → generates complete IEEE/Springer paper structure with guidance
-- 📚 **CiteFast** — Paste any paper text → instantly generates APA, MLA, and IEEE citations in a clean copyable UI
-- 🗓️ **LitMap** — Paste 5 arXiv links → generates a visual literature review map showing how the papers connect to each other
-- 📝 **ReadmeGen** — Paste any GitHub repo URL → generates a complete professional README.md from the actual code instantly
-- 🔌 **APITest** — Describe any API endpoint in plain English → generates ready-to-run curl commands and full test cases
-- 🔍 **DepsAudit** — Paste any package.json or requirements.txt → visual card showing outdated, vulnerable, and unused dependencies
-- 🗄️ **SchemaViz** — Paste any database schema or SQL → generates a beautiful visual diagram of tables and their relations
-- 🧬 **PromptLab** — Write any prompt → runs it across multiple models and shows outputs in a visual side-by-side comparison
+- 📊 **TabExplain** — Upload any CSV → interactive visual analysis dashboard with pattern detection, outlier highlighting, and correlation matrix. Supabase stores history. WebSocket streams analysis progress.
+- 🧹 **DataClean** — Upload messy CSV → auto-detects and fixes missing values, type errors, duplicates. Visual before/after report. Supabase stores sessions. Webhook fires on completion.
+- ⚡ **BenchMark** — Upload any tabular dataset → runs 5 ML models simultaneously, outputs visual accuracy/speed/memory comparison. Supabase stores all runs. WebSocket shows live model progress.
+- 🔬 **TinyTrain** — Upload any CSV with target column → fine-tunes a small model, outputs visual training curve and metrics report. Supabase stores runs. WebSocket streams live loss.
+- 🔀 **ExplainDiff** — Upload two trained ML models + dataset → visual chart of where and why their predictions diverge. Supabase stores comparisons. Redis caches heavy computations.
+- ⚖️ **FairScan** — Upload model + dataset → detects bias across demographic groups, visual fairness audit report. Supabase stores audits. Webhook alert when bias exceeds threshold.
+- 🛡️ **RobustCheck** — Upload any ML model → generates adversarial edge case inputs, shows exactly where model breaks. Supabase logs all test runs. Webhook on critical failure.
+- 🧪 **DataDistill** — Upload any real dataset → generates a privacy-safe synthetic version. Visual statistical comparison. Supabase stores generation history. Redis queues large jobs.
+- 📉 **DataDrift** — Upload two CSVs → detects statistical drift between them, visual drift report. Supabase stores drift history. Webhook when drift exceeds threshold.
+- 🌐 **EmbedViz** — Upload any dataset → interactive 2D/3D UMAP & t-SNE visualization. Supabase stores visualizations. WebSocket streams reduction live.
+- 🔥 **GradCAMViz** — Upload image + CNN model → generates Grad-CAM heatmap. Supabase stores outputs. Webhook on completion.
+- 🏎️ **CVBench** — Upload image dataset → benchmarks across pretrained vision models with accuracy comparison. Supabase stores runs. WebSocket shows inference.
+- 🎨 **AugPipeline** — Build visual image augmentation pipeline → preview + export as Python code. Supabase stores pipelines. Redis caches processing.
+- 🕺 **PoseCheck** — Upload image/video → detects human pose keypoints with skeleton overlay. Supabase stores results. Webhook on completion.
+- 🌊 **DepthMap** — Upload image → generates depth estimation map with visualization. Supabase stores maps. Redis caches repeated runs.
+- 🗺️ **SegViz** — Upload image → semantic segmentation with class overlay + distribution chart. Supabase stores results. WebSocket streams progress.
+- 🧠 **ActiveLearn** — Upload unlabeled dataset → suggests most useful samples to label. Supabase stores sessions. WebSocket updates in real time.
+- 📖 **PaperOutline** — Describe research idea → generates full IEEE/Springer structure with guidance. Supabase stores versions. WebSocket streams output.
+- 🗓️ **LitMap** — Paste arXiv links → visual literature map showing connections. Supabase stores maps. Redis caches arXiv data.
+- 🔬 **HypothesisLab** — Describe hypothesis → generates experiment plan, datasets, baselines, metrics. Supabase stores experiments.
+- 📊 **ResultsViz** — Upload experiment results → generates publication-ready charts/tables. Supabase stores visualizations.
+- 🔍 **DepsAudit** — Paste dependencies → detects outdated, vulnerable, unused packages with fix suggestions. Supabase stores audits.
+- 🗄️ **SchemaViz** — Paste SQL schema → generates ER diagram. Supabase stores diagrams. Redis caches renders.
+- 🧬 **VectorSearch** — Upload text dataset → builds semantic search with similarity ranking. Supabase pgvector stores embeddings.
+- 📡 **ModelMonitor** — Connect ML model → monitors predictions over time, alerts on drift. Supabase stores logs. WebSocket alerts.
+- 🔢 **DataSplit** — Upload dataset → smart train/val/test split with visualization. Supabase stores splits.
+- 🧩 **PaperDigestPro** — Paste arXiv links → comparative analysis across papers with insights + gaps. Supabase stores comparisons. Redis caches data.
+
+
 ## What I'm Doing
 
 • Building open-source AI developer tools  

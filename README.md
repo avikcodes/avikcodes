@@ -30,7 +30,6 @@
 
 ## Tool Roadmap
 
-- 📊 **TabExplain** — Upload any CSV → interactive visual analysis dashboard with pattern detection, outlier highlighting, and correlation matrix. Supabase stores history. WebSocket streams analysis progress.
 - 🧹 **DataClean** — Upload messy CSV → auto-detects and fixes missing values, type errors, duplicates. Visual before/after report. Supabase stores sessions. Webhook fires on completion.
 - ⚡ **BenchMark** — Upload any tabular dataset → runs 5 ML models simultaneously, outputs visual accuracy/speed/memory comparison. Supabase stores all runs. WebSocket shows live model progress.
 - 🔬 **TinyTrain** — Upload any CSV with target column → fine-tunes a small model, outputs visual training curve and metrics report. Supabase stores runs. WebSocket streams live loss.

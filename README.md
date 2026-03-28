@@ -83,7 +83,7 @@ Data-Efficient Machine Learning for Small Tabular Datasets: A Comparison Study
 
 ## Connect
 
-[![X](https://img.shields.io/badge/X-%40Avik12345678-black?style=for-the-badge&logo=x)](https://x.com/Avik12345678)
+[![X](https://img.shields.io/badge/X-%40Avik12345678-black?style=for-the-badge&logo=x)](https://x.com/Avikzx)
 [![Substack](https://img.shields.io/badge/Substack-Newsletter-orange?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@avikg)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Avik-Ghosh-22)
 [![GitHub](https://img.shields.io/badge/GitHub-avikcodes-black?style=for-the-badge&logo=github)](https://github.com/avikcodes)

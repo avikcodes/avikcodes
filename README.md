@@ -72,6 +72,9 @@ Data-Efficient Machine Learning for Small Tabular Datasets: A Comparison Study
 - 💻 Code: https://github.com/avikcodes/data-efficient-ml-small-tabular
 - 🔗 DOI: https://doi.org/10.5281/zenodo.19394292
 
+Tool-Augmented AI Agents on Small toMedium Language Models
+-  🔗 DOI: https://doi.org/10.5281/zenodo.19394724
+
 ---
 
 ## Latest Writing

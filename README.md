@@ -25,7 +25,7 @@
 - 📜 [**PaperDigest**](https://github.com/avikcodes/-PaperDigest) — Paste any arXiv paper link → get structured summaries (problem, method, results) instantly
 -  🐛 [**BugReport**](https://github.com/avikcodes/bugreport) — Paste any error + stack trace → plain English diagnosis, exact fix, and prevention tip with severity badge
 - 📊 [**TabExplain**](https://github.com/avikcodes/tabexplain) — Upload any CSV → get an interactive visual dashboard with pattern detection, outlier highlighting, and correlation matrix
-- 🧹 [**DataClean**](https://github.com/avikcodes/dataclean) — Upload messy CSV → auto-detects and fixes missing values, type errors, duplicates. Visual before/after report. Supabase stores sessions. Webhook fires on completion.
+- 🧹 [**DataClean**](https://github.com/avikcodes/dataclean) — Upload messy CSV → auto-clean (missing values, types, duplicates) + visual before/after report
 ---
 
 

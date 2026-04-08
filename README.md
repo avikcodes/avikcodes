@@ -23,8 +23,8 @@
 
 - ✅ [**CommitWrite**](https://github.com/avikcodes/CommitWrite) — Reads your staged git diff and generates a clean commit message using AI
 - 📜 [**PaperDigest**](https://github.com/avikcodes/-PaperDigest) — Paste any arXiv paper link → get structured summaries (problem, method, results) instantly
--  🐛 [**BugReport**](https://github.com/avikcodes/bugreport) — Paste any error + stack trace → plain English diagnosis, exact fix, and prevention tip with severity badge
-- 📊 [**TabExplain**](https://github.com/avikcodes/tabexplain) — Upload any CSV → get an interactive visual dashboard with pattern detection, outlier highlighting, and correlation matrix
+- 🐛 [**BugReport**](https://github.com/avikcodes/bugreport) — Paste any error + stack trace → plain English diagnosis, exact fix, and prevention tip with severity badge
+- 📊 [**TabExplain**](https://github.com/avikcodes/tabexplain) — CSV → visual dashboard (patterns, outliers, correlations)
 - 🧹 [**DataClean**](https://github.com/avikcodes/dataclean) — Upload messy CSV → auto-clean (missing values, types, duplicates) + visual before/after report
 ---
 

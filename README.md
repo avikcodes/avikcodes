@@ -25,12 +25,12 @@
 - 📜 [**PaperDigest**](https://github.com/avikcodes/-PaperDigest) — Paste any arXiv paper link → get structured summaries (problem, method, results) instantly
 -  🐛 [**BugReport**](https://github.com/avikcodes/bugreport) — Paste any error + stack trace → plain English diagnosis, exact fix, and prevention tip with severity badge
 - 📊 [**TabExplain**](https://github.com/avikcodes/tabexplain) — Upload any CSV → get an interactive visual dashboard with pattern detection, outlier highlighting, and correlation matrix
+- 🧹 [**DataClean**](https://github.com/avikcodes/dataclean) — Upload messy CSV → auto-detects and fixes missing values, type errors, duplicates. Visual before/after report. Supabase stores sessions. Webhook fires on completion.
 ---
 
 
 ## Tool Roadmap
 
-- 🧹 **DataClean** — Upload messy CSV → auto-detects and fixes missing values, type errors, duplicates. Visual before/after report. Supabase stores sessions. Webhook fires on completion.
 - ⚡ **BenchMark** — Upload any tabular dataset → runs 5 ML models simultaneously, outputs visual accuracy/speed/memory comparison. Supabase stores all runs. WebSocket shows live model progress.
 - 🔬 **TinyTrain** — Upload any CSV with target column → fine-tunes a small model, outputs visual training curve and metrics report. Supabase stores runs. WebSocket streams live loss.
 - 🔀 **ExplainDiff** — Upload two trained ML models + dataset → visual chart of where and why their predictions diverge. Supabase stores comparisons. Redis caches heavy computations.

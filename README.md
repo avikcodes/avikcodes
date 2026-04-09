@@ -26,12 +26,12 @@
 - 🐛 [**BugReport**](https://github.com/avikcodes/bugreport) — Paste any error + stack trace → plain English diagnosis, exact fix, and prevention tip with severity badge
 - 📊 [**TabExplain**](https://github.com/avikcodes/tabexplain) — CSV → visual dashboard (patterns, outliers, correlations)
 - 🧹 [**DataClean**](https://github.com/avikcodes/dataclean) — Upload messy CSV → auto-clean (missing values, types, duplicates) + visual before/after report
+- ⚡[**BenchMark** ](https://github.com/avikcodes/benchmark) — Upload any tabular dataset → runs 5 ML models simultaneously, outputs visual accuracy/speed/memory comparison. Supabase stores all runs. WebSocket shows live model progress
 ---
 
 
 ## Tool Roadmap
 
-- ⚡ **BenchMark** — Upload any tabular dataset → runs 5 ML models simultaneously, outputs visual accuracy/speed/memory comparison. Supabase stores all runs. WebSocket shows live model progress.
 - 🔬 **TinyTrain** — Upload any CSV with target column → fine-tunes a small model, outputs visual training curve and metrics report. Supabase stores runs. WebSocket streams live loss.
 - 🔀 **ExplainDiff** — Upload two trained ML models + dataset → visual chart of where and why their predictions diverge. Supabase stores comparisons. Redis caches heavy computations.
 - ⚖️ **FairScan** — Upload model + dataset → detects bias across demographic groups, visual fairness audit report. Supabase stores audits. Webhook alert when bias exceeds threshold.

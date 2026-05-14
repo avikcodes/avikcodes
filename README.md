@@ -26,8 +26,9 @@
 - 🐛 [**BugReport**](https://github.com/avikcodes/bugreport) — Paste any error + stack trace → plain English diagnosis, exact fix, and prevention tip with severity badge
 - 📊 [**TabExplain**](https://github.com/avikcodes/tabexplain) — CSV → visual dashboard (patterns, outliers, correlations)
 - 🧹 [**DataClean**](https://github.com/avikcodes/dataclean) — Upload messy CSV → auto-clean (missing values, types, duplicates) + visual before/after report
-- ⚡[**BenchMark** ](https://github.com/avikcodes/benchmark) — Upload tabular data → run 5 ML models, compare accuracy/speed/memory, store results in Supabase, stream live progress via WebSocket.
-- 🔬 [**TinyTrain**](https://github.com/avikcodes/tinytrain) — Upload any CSV with target column → fine-tunes a small model, outputs visual training curve and metrics report. Supabase stores runs. WebSocket streams live loss.
+- ⚡[**BenchMark** ](https://github.com/avikcodes/benchmark) — Compare ML models on tabular datasets with live metrics.
+- 🔬 [**TinyTrain**](https://github.com/avikcodes/tinytrain) — Fine-tune small ML models from CSV datasets.
+- 🧪 [**AgentBench Lite**](https://github.com/avikcodes/agentbench-lite) — Benchmarking platform for evaluating LLM agents and tool usage.
 ---
 
 ## Tool Roadmap

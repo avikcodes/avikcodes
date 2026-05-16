@@ -31,32 +31,27 @@
 - 🧪 [**AgentBench Lite**](https://github.com/avikcodes/agentbench-lite) — Benchmarking platform for evaluating LLM agents and tool usage.
 ---
 
-## Tool Roadmap
 
-- 🔀 **ExplainDiff** — Upload two trained ML models + dataset → visual chart of where and why their predictions diverge. Supabase stores comparisons. Redis caches heavy computations.
-- ⚖️ **FairScan** — Upload model + dataset → detects bias across demographic groups, visual fairness audit report. Supabase stores audits. Webhook alert when bias exceeds threshold.
-- 🛡️ **RobustCheck** — Upload any ML model → generates adversarial edge case inputs, shows exactly where model breaks. Supabase logs all test runs. Webhook on critical failure.
-- 🧪 **DataDistill** — Upload any real dataset → generates a privacy-safe synthetic version. Visual statistical comparison. Supabase stores generation history. Redis queues large jobs.
-- 📉 **DataDrift** — Upload two CSVs → detects statistical drift between them, visual drift report. Supabase stores drift history. Webhook when drift exceeds threshold.
-- 🌐 **EmbedViz** — Upload any dataset → interactive 2D/3D UMAP & t-SNE visualization. Supabase stores visualizations. WebSocket streams reduction live.
-- 🔥 **GradCAMViz** — Upload image + CNN model → generates Grad-CAM heatmap. Supabase stores outputs. Webhook on completion.
-- 🏎️ **CVBench** — Upload image dataset → benchmarks across pretrained vision models with accuracy comparison. Supabase stores runs. WebSocket shows inference.
-- 🎨 **AugPipeline** — Build visual image augmentation pipeline → preview + export as Python code. Supabase stores pipelines. Redis caches processing.
-- 🕺 **PoseCheck** — Upload image/video → detects human pose keypoints with skeleton overlay. Supabase stores results. Webhook on completion.
-- 🌊 **DepthMap** — Upload image → generates depth estimation map with visualization. Supabase stores maps. Redis caches repeated runs.
-- 🗺️ **SegViz** — Upload image → semantic segmentation with class overlay + distribution chart. Supabase stores results. WebSocket streams progress.
-- 🧠 **ActiveLearn** — Upload unlabeled dataset → suggests most useful samples to label. Supabase stores sessions. WebSocket updates in real time.
-- 📖 **PaperOutline** — Describe research idea → generates full IEEE/Springer structure with guidance. Supabase stores versions. WebSocket streams output.
-- 🗓️ **LitMap** — Paste arXiv links → visual literature map showing connections. Supabase stores maps. Redis caches arXiv data.
-- 🔬 **HypothesisLab** — Describe hypothesis → generates experiment plan, datasets, baselines, metrics. Supabase stores experiments.
-- 📊 **ResultsViz** — Upload experiment results → generates publication-ready charts/tables. Supabase stores visualizations.
-- 🔍 **DepsAudit** — Paste dependencies → detects outdated, vulnerable, unused packages with fix suggestions. Supabase stores audits.
-- 🗄️ **SchemaViz** — Paste SQL schema → generates ER diagram. Supabase stores diagrams. Redis caches renders.
-- 🧬 **VectorSearch** — Upload text dataset → builds semantic search with similarity ranking. Supabase pgvector stores embeddings.
-- 📡 **ModelMonitor** — Connect ML model → monitors predictions over time, alerts on drift. Supabase stores logs. WebSocket alerts.
-- 🔢 **DataSplit** — Upload dataset → smart train/val/test split with visualization. Supabase stores splits.
-- 🧩 **PaperDigestPro** — Paste arXiv links → comparative analysis across papers with insights + gaps. Supabase stores comparisons. Redis caches data.
+# 🚀 AI/ML Systems & Infra Project Roadmap
 
+- 🔍 **RAGProbe** — Upload RAG pipeline → evaluate hallucination, retrieval quality, faithfulness, chunking efficiency, citation grounding, latency. Benchmark dashboard + failure tracing. PostgreSQL stores evaluation history. Redis queues large evaluations. WebSocket streams live analysis.
+
+- 📡 **TraceLLM** — Open-source LLM observability platform → track prompts, token usage, latency, retries, hallucinations, tool calls, agent execution paths. PostgreSQL stores traces. WebSocket streams logs live.
+- ⚡ **InferBench** — Benchmark ML inference frameworks → compare ONNX, TensorRT, TorchScript, GGUF, vLLM across throughput, GPU memory, latency, quantization impact. Redis queues benchmarks. PostgreSQL stores runs.
+- 🤖 **AgentArena** — Multi-agent evaluation sandbox → benchmark AI agents on reasoning, coding, browser automation, tool usage, memory retention. Leaderboard + execution replay viewer. WebSocket streams execution.
+- 📉 **DriftScope** — Real-time ML drift monitoring system → detect concept drift, feature shift, anomaly spikes on streaming data. PostgreSQL stores monitoring logs. WebSocket alerts on critical drift.
+- 🧠 **ContextOS** — Long-context memory engine for AI agents → episodic memory, vector retrieval, hierarchical summarization, memory compression, relevance scoring. PostgreSQL stores memory state.
+- 🧪 **EvalForge** — Automatic benchmark generation engine → create adversarial prompts, jailbreak tests, multilingual evaluations, reasoning benchmarks for LLMs. Redis queues dataset generation.
+- 🖥️ **GPUFlow** — Distributed GPU job orchestration platform → queue ML jobs, allocate GPUs, retry failed tasks, monitor utilization, stream logs live. PostgreSQL stores jobs. Redis powers queue system.
+- 🧩 **PromptCompiler** — Natural language → optimized prompt graph compiler. Converts tasks into structured execution flows with memory, tools, constraints, retries, and agent routing.
+- 🧬 **SemanticDiff** — AI-aware Git diff engine → semantic code understanding, architecture impact analysis, bug risk estimation, intelligent PR review suggestions. PostgreSQL stores analysis history.
+- 🔗 **DataLineage AI** — Dataset dependency & transformation tracker → visualize data pipelines, transformation chains, feature lineage, failure propagation. DAG-based system visualization.
+- 💥 **FailSim** — Chaos engineering platform for ML systems → simulate GPU crashes, missing data, corrupt models, feature drift, latency spikes, API failures. Generate resilience reports.
+- 🌐 **RetrievalGraph** — Hybrid graph + vector retrieval engine → combine semantic retrieval, knowledge graphs, symbolic reasoning, and contextual ranking. PostgreSQL + pgvector backend.
+- 🏗️ **OpenEvalHub** — Unified evaluation platform for ML models → benchmark LLMs, CV models, recommender systems, and tabular ML pipelines from one interface.
+- 🧫 **SyntheticLab** — Synthetic dataset generation engine → generate privacy-safe tabular/text/image datasets with controllable distributions and statistical similarity analysis.
+- 📚 **ResearchCopilot** — AI-powered research workflow assistant → literature extraction, citation graph generation, experiment planning, methodology guidance, result interpretation.
+- 🔎 **VectorDB Inspector** — Deep vector database debugging platform → analyze embedding quality, chunk overlap, retrieval failures, nearest-neighbor errors, vector drift, ranking quality.
 
 ## What I'm Doing
 

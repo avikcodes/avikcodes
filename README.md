@@ -52,6 +52,29 @@
 - 🧫 **SyntheticLab** — Synthetic dataset generation engine → generate privacy-safe tabular/text/image datasets with controllable distributions and statistical similarity analysis.
 - 📚 **ResearchCopilot** — AI-powered research workflow assistant → literature extraction, citation graph generation, experiment planning, methodology guidance, result interpretation.
 - 🔎 **VectorDB Inspector** — Deep vector database debugging platform → analyze embedding quality, chunk overlap, retrieval failures, nearest-neighbor errors, vector drift, ranking quality.
+  
+
+  # CLI Projects 
+
+- 🔍 **ragprobe-cli** — Evaluate RAG pipelines from terminal → detect hallucinations, retrieval failures, citation mismatch, chunk overlap, latency bottlenecks. Export JSON/HTML reports.
+
+- 📡 **tracedev-cli** — LLM observability CLI → trace prompts, token usage, retries, tool calls, latency, agent execution flow. Generate execution timelines and debug logs.
+
+- ⚡ **inferbench-cli** — Benchmark ML inference frameworks → compare ONNX, TensorRT, TorchScript, GGUF, vLLM across throughput, latency, memory usage, and quantization impact.
+
+- 🤖 **agentarena-cli** — Multi-agent benchmarking framework → evaluate AI agents on coding, reasoning, browser automation, memory retention, and tool-use tasks.
+
+- 📉 **driftwatch-cli** — Streaming ML drift detector → monitor production datasets for concept drift, feature shift, anomaly spikes, PSI/KL divergence alerts.
+
+- 🧠 **contextos-cli** — Long-context memory engine for AI agents → compressed memory retrieval, episodic memory tracking, summarization layers, relevance scoring.
+
+- 🧪 **evalforge-cli** — Generate adversarial LLM benchmark datasets → jailbreak prompts, multilingual tests, reasoning stress tests, hallucination evaluations.
+
+- 🖥️ **gpuqueue-cli** — Distributed GPU job orchestration tool → queue ML training jobs, allocate GPUs, retry failures, monitor utilization, stream logs.
+
+- 🧬 **semanticdiff-cli** — AI-aware Git/code diff engine → semantic code analysis, architecture impact detection, bug-risk estimation, intelligent PR summaries.
+
+- 🔎 **vectordebug-cli** — Deep vector database inspection tool → detect embedding collapse, duplicate vectors, retrieval failures, chunk overlap, nearest-neighbor anomalies.
 
 ## What I'm Doing
 

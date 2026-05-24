@@ -20,7 +20,11 @@
 ---
 
 ## Current Projects
+- 📡 [**TraceLLM** ](https://github.com/avikcodes/traceLLM) - Open-source LLM observability platform → track prompts, token usage, latency, retries, hallucinations, tool calls, agent execution paths. PostgreSQL stores traces. WebSocket streams logs live.
 
+  
+ ## Just Fun-
+ 
 - ✅ [**CommitWrite**](https://github.com/avikcodes/CommitWrite) — Reads your staged git diff and generates a clean commit message using AI
 - 📜 [**PaperDigest**](https://github.com/avikcodes/-PaperDigest) — Paste any arXiv paper link → get structured summaries (problem, method, results) instantly
 - 🐛 [**BugReport**](https://github.com/avikcodes/bugreport) — Paste any error + stack trace → plain English diagnosis, exact fix, and prevention tip with severity badge
@@ -35,8 +39,6 @@
 # 🚀 AI/ML Systems & Infra Project Roadmap
 
 - 🔍 **RAGProbe** — Upload RAG pipeline → evaluate hallucination, retrieval quality, faithfulness, chunking efficiency, citation grounding, latency. Benchmark dashboard + failure tracing. PostgreSQL stores evaluation history. Redis queues large evaluations. WebSocket streams live analysis.
-
-- 📡 **TraceLLM** — Open-source LLM observability platform → track prompts, token usage, latency, retries, hallucinations, tool calls, agent execution paths. PostgreSQL stores traces. WebSocket streams logs live.
 - ⚡ **InferBench** — Benchmark ML inference frameworks → compare ONNX, TensorRT, TorchScript, GGUF, vLLM across throughput, GPU memory, latency, quantization impact. Redis queues benchmarks. PostgreSQL stores runs.
 - 🤖 **AgentArena** — Multi-agent evaluation sandbox → benchmark AI agents on reasoning, coding, browser automation, tool usage, memory retention. Leaderboard + execution replay viewer. WebSocket streams execution.
 - 📉 **DriftScope** — Real-time ML drift monitoring system → detect concept drift, feature shift, anomaly spikes on streaming data. PostgreSQL stores monitoring logs. WebSocket alerts on critical drift.

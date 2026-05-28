@@ -36,47 +36,47 @@
 ---
 
 
-# 🚀 AI/ML Systems & Infra Project Roadmap
+## My Upcoming Projects 
 
-- 🔍 **RAGProbe** — Upload RAG pipeline → evaluate hallucination, retrieval quality, faithfulness, chunking efficiency, citation grounding, latency. Benchmark dashboard + failure tracing. PostgreSQL stores evaluation history. Redis queues large evaluations. WebSocket streams live analysis.
-- ⚡ **InferBench** — Benchmark ML inference frameworks → compare ONNX, TensorRT, TorchScript, GGUF, vLLM across throughput, GPU memory, latency, quantization impact. Redis queues benchmarks. PostgreSQL stores runs.
-- 🤖 **AgentArena** — Multi-agent evaluation sandbox → benchmark AI agents on reasoning, coding, browser automation, tool usage, memory retention. Leaderboard + execution replay viewer. WebSocket streams execution.
-- 📉 **DriftScope** — Real-time ML drift monitoring system → detect concept drift, feature shift, anomaly spikes on streaming data. PostgreSQL stores monitoring logs. WebSocket alerts on critical drift.
-- 🧠 **ContextOS** — Long-context memory engine for AI agents → episodic memory, vector retrieval, hierarchical summarization, memory compression, relevance scoring. PostgreSQL stores memory state.
-- 🧪 **EvalForge** — Automatic benchmark generation engine → create adversarial prompts, jailbreak tests, multilingual evaluations, reasoning benchmarks for LLMs. Redis queues dataset generation.
-- 🖥️ **GPUFlow** — Distributed GPU job orchestration platform → queue ML jobs, allocate GPUs, retry failed tasks, monitor utilization, stream logs live. PostgreSQL stores jobs. Redis powers queue system.
-- 🧩 **PromptCompiler** — Natural language → optimized prompt graph compiler. Converts tasks into structured execution flows with memory, tools, constraints, retries, and agent routing.
-- 🧬 **SemanticDiff** — AI-aware Git diff engine → semantic code understanding, architecture impact analysis, bug risk estimation, intelligent PR review suggestions. PostgreSQL stores analysis history.
-- 🔗 **DataLineage AI** — Dataset dependency & transformation tracker → visualize data pipelines, transformation chains, feature lineage, failure propagation. DAG-based system visualization.
-- 💥 **FailSim** — Chaos engineering platform for ML systems → simulate GPU crashes, missing data, corrupt models, feature drift, latency spikes, API failures. Generate resilience reports.
-- 🌐 **RetrievalGraph** — Hybrid graph + vector retrieval engine → combine semantic retrieval, knowledge graphs, symbolic reasoning, and contextual ranking. PostgreSQL + pgvector backend.
-- 🏗️ **OpenEvalHub** — Unified evaluation platform for ML models → benchmark LLMs, CV models, recommender systems, and tabular ML pipelines from one interface.
-- 🧫 **SyntheticLab** — Synthetic dataset generation engine → generate privacy-safe tabular/text/image datasets with controllable distributions and statistical similarity analysis.
-- 📚 **ResearchCopilot** — AI-powered research workflow assistant → literature extraction, citation graph generation, experiment planning, methodology guidance, result interpretation.
-- 🔎 **VectorDB Inspector** — Deep vector database debugging platform → analyze embedding quality, chunk overlap, retrieval failures, nearest-neighbor errors, vector drift, ranking quality.
-  
+• 🧠 VectorDoctor — Debug vector databases, retrieval quality, embedding collapse, and chunk overlap directly from terminal.
 
-  # CLI Projects 
+• 🛡️ PromptShield — Scan prompts for jailbreaks, prompt injection, hidden instructions, and unsafe tool access.
 
-- 🔍 **ragprobe-cli** — Evaluate RAG pipelines from terminal → detect hallucinations, retrieval failures, citation mismatch, chunk overlap, latency bottlenecks. Export JSON/HTML reports.
+• ⚡ InferPulse — Benchmark Ollama, vLLM, TensorRT, ONNX, and llama.cpp latency, throughput, and VRAM usage.
 
-- 📡 **tracedev-cli** — LLM observability CLI → trace prompts, token usage, retries, tool calls, latency, agent execution flow. Generate execution timelines and debug logs.
+• 🧬 SemanticDiff — AI-aware Git diff CLI that detects architectural impact, logic changes, and bug-risk.
 
-- ⚡ **inferbench-cli** — Benchmark ML inference frameworks → compare ONNX, TensorRT, TorchScript, GGUF, vLLM across throughput, latency, memory usage, and quantization impact.
+• 🤖 AgentOps CLI — Trace multi-agent execution, retries, loops, tool calls, and memory failures in realtime.
 
-- 🤖 **agentarena-cli** — Multi-agent benchmarking framework → evaluate AI agents on coding, reasoning, browser automation, memory retention, and tool-use tasks.
+• 📉 DriftWatch — Detect concept drift, feature shift, PSI divergence, and ML anomalies from streaming datasets.
 
-- 📉 **driftwatch-cli** — Streaming ML drift detector → monitor production datasets for concept drift, feature shift, anomaly spikes, PSI/KL divergence alerts.
+• 🧩 ContextForge — Compress long-context conversations, optimize tokens, prune irrelevant memory, and summarize history.
 
-- 🧠 **contextos-cli** — Long-context memory engine for AI agents → compressed memory retrieval, episodic memory tracking, summarization layers, relevance scoring.
+• 🧪 EvalForge — Generate jailbreak prompts, adversarial datasets, multilingual evaluations, and reasoning benchmarks.
 
-- 🧪 **evalforge-cli** — Generate adversarial LLM benchmark datasets → jailbreak prompts, multilingual tests, reasoning stress tests, hallucination evaluations.
+• 🖥️ GPUQueue — Queue AI jobs, manage GPUs, retry failures, and monitor utilization from terminal.
 
-- 🖥️ **gpuqueue-cli** — Distributed GPU job orchestration tool → queue ML training jobs, allocate GPUs, retry failures, monitor utilization, stream logs.
+• 🔍 RepoGraph — Analyze huge repositories, dependency relationships, architecture flow, and code ownership.
 
-- 🧬 **semanticdiff-cli** — AI-aware Git/code diff engine → semantic code analysis, architecture impact detection, bug-risk estimation, intelligent PR summaries.
+• 📦 DockerPulse — Diagnose Docker performance, broken containers, memory leaks, and unhealthy services.
 
-- 🔎 **vectordebug-cli** — Deep vector database inspection tool → detect embedding collapse, duplicate vectors, retrieval failures, chunk overlap, nearest-neighbor anomalies.
+• 🌐 APIScope — Realtime API debugging CLI with latency tracing, error replay, and request inspection.
+
+• 🔥 CacheDoctor — Redis and caching debugger for cache misses, stale data, hot keys, and memory spikes.
+
+• 🧵 QueueWatch — Inspect Kafka, RabbitMQ, and Redis queues for stuck jobs, retry storms, and throughput bottlenecks.
+
+• 🛠️ PromptCompiler — Convert natural-language tasks into structured prompt workflows with tools and retries.
+
+• 🔐 SecretRadar — Scan repositories, containers, and environments for leaked API keys and secrets.
+
+• 🛰️ ModelWatch — Monitor local/open-source models for latency spikes, VRAM overflow, and unstable inference.
+
+• 📡 PacketLens — Network debugging CLI for API latency, packet drops, websocket failures, and DNS bottlenecks.
+
+• 🧠 MemoryScope — AI agent memory debugger for episodic memory corruption, context overflow, and retrieval failures.
+
+• 🧪 ChaosForge — Simulate GPU crashes, API failures, latency spikes, and broken model pipelines for resilience testing.
 
 ## What I'm Doing
 
